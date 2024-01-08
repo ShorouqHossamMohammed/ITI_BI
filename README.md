@@ -78,7 +78,7 @@ The visuals included:
 - Table showcasing post details
 ![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/3.png?raw=true)
 
-![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/4.jpg?raw=true)
+![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/4.png?raw=true)
 
 ## Tableau [Project Video] [Tableau Public Published Dashboard]
 
