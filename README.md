@@ -41,4 +41,5 @@ One notable lab focused on Kickstarter projects, highlighting the following:
   - Practiced creating hierarchies, measures, and visuals to represent project data.
 - **Visuals:**
   - Included visuals like cards for project count, backers count, total pledge and goal, and charts depicting project distribution by state and category hierarchy.
-  - 
+
+    ![Power BI Project Image](paste-your-image-url-here)
