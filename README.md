@@ -33,7 +33,7 @@ The internship comprised three fundamental courses:
   - Explored advanced features such as calculated fields and mapping.
 
 ## Projects
-### Power BI [Projects Video]
+### Power BI 
 One notable lab focused on Kickstarter projects, highlighting the following:
 - **Data Transformation:**
   - Used Power Query to transform data, incorporating custom columns with the M language.
