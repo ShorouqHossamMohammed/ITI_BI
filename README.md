@@ -60,3 +60,34 @@ Visualizations included:
 - Charts for orders by status, ship method, territory
 - Top 10 salespersons chart
  ![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/2..jpg?raw=true)
+
+#### Facebook Graph API Exploration
+
+In the final phase, I delved into working with the Facebook Graph API:
+
+- Extracted links and hashtags
+- Created measures
+- Designed visuals for data representation
+
+### Visuals
+
+The visuals included:
+
+- Card for the number of posts
+- Chart displaying the number of posts by date
+- Table showcasing post details
+![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/2..jpg?raw=true)
+![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/2..jpg?raw=true)
+
+## Tableau [Project Video] [Tableau Public Published Dashboard]
+
+For the Tableau project:
+
+- Explored the TMDb Movie Dataset
+- Created a Tableau dashboard
+- Designed to provide insights, identify patterns, and inform data-driven decisions
+
+## Final Thoughts
+
+The ITI internship posed challenges, but the acquired knowledge proved instrumental. The skills gained will undoubtedly contribute to success in future projects.
+
