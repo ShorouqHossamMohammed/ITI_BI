@@ -87,6 +87,8 @@ For the Tableau project:
 - Explored the TMDb Movie Dataset
 - Created a Tableau dashboard
 - Designed to provide insights, identify patterns, and inform data-driven decisions
+- **Prokjects**
+  [Visit Tableau public]([https://github.com/](https://public.tableau.com/app/profile/shorouq.hossam/viz/salescompany/Dashboard1?publish=yes))
 
 ## Final Thoughts
 
