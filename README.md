@@ -59,4 +59,4 @@ Visualizations included:
 - Card for orders and totals
 - Charts for orders by status, ship method, territory
 - Top 10 salespersons chart
- ![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/1.jpg?raw=true)
+ ![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/2..jpg?raw=true)
