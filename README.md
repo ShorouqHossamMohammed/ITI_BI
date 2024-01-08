@@ -34,7 +34,7 @@ The internship comprised three fundamental courses:
 
 ## Projects
 ### Power BI 
-One notable lab focused on Kickstarter projects, highlighting the following:
+#### One notable lab focused on Kickstarter projects, highlighting the following:
 - **Data Transformation:**
   - Used Power Query to transform data, incorporating custom columns with the M language.
 - **Dashboard Creation:**
@@ -43,3 +43,20 @@ One notable lab focused on Kickstarter projects, highlighting the following:
   - Included visuals like cards for project count, backers count, total pledge and goal, and charts depicting project distribution by state and category hierarchy.
 
     ![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/1.jpg?raw=true)
+   
+#### AdventureWorks Database Lab Summary
+
+In the second lab, I worked with the AdventureWorks database and learned about:
+
+- DirectQuery
+- Creating Relationships
+- Measures and DAX Tables
+
+- **Visuals:**
+
+Visualizations included:
+
+- Card for orders and totals
+- Charts for orders by status, ship method, territory
+- Top 10 salespersons chart
+ ![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/1.jpg?raw=true)
