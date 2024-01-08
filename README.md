@@ -52,7 +52,7 @@ In the second lab, I worked with the AdventureWorks database and learned about:
 - Creating Relationships
 - Measures and DAX Tables
 
-- **Visuals:**
+- Visuals:
 
 Visualizations included:
 
