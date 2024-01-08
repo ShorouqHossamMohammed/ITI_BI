@@ -42,4 +42,4 @@ One notable lab focused on Kickstarter projects, highlighting the following:
 - **Visuals:**
   - Included visuals like cards for project count, backers count, total pledge and goal, and charts depicting project distribution by state and category hierarchy.
 
-    ![Power BI Project Image]([paste-your-image-url-here](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/1.jpg?raw=true)https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/1.jpg?raw=true)
+    ![Power BI Project Image]((https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/1.jpg?raw=true)https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/1.jpg?raw=true)
