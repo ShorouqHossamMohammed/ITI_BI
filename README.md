@@ -76,8 +76,8 @@ The visuals included:
 - Card for the number of posts
 - Chart displaying the number of posts by date
 - Table showcasing post details
-![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/2..jpg?raw=true)
-![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/2..jpg?raw=true)
+![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/3..jpg?raw=true)
+![Power BI Project Image](https://github.com/ShorouqHossamMohammed/ITI_BI/blob/main/BI_IMAGES/4..jpg?raw=true)
 
 ## Tableau [Project Video] [Tableau Public Published Dashboard]
 
